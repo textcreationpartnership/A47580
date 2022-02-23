@@ -1,0 +1,1138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious call to obstinate sinners, or A sounding trumpet to the unconverted Laying forth the danger of living in sin, and delay od repentance. Which may be a warning-blow for wicked men to forsake sin, and to turn to God unfeignedly. By William Knowles.</title>
+            <author>Knowles, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47580</idno>
+            <idno type="STC">Wing K734B</idno>
+            <idno type="STC">ESTC R218081</idno>
+            <idno type="EEBO-CITATION">99829707</idno>
+            <idno type="PROQUEST">99829707</idno>
+            <idno type="VID">34150</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34150)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2008:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious call to obstinate sinners, or A sounding trumpet to the unconverted Laying forth the danger of living in sin, and delay od repentance. Which may be a warning-blow for wicked men to forsake sin, and to turn to God unfeignedly. By William Knowles.</title>
+                  <author>Knowles, William.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by H.B. for W. Thackeray at the Angel in Duck-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: AB⁴.</note>
+                  <note>Reproduction of the original at the Magdalene College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance --  Early works to 1800.</term>
+               <term>Judgement Day --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34150:1" rendition="simple:additions"/>
+            <p>A ſerious Call to Obſtinate Sinners, Or, A ſounding Trumpet
+to the UNCONVERTED. Laying forth the danger of living in Sin, and delay of
+REPENTANCE. Which may be a Warning-blow for Wicked Men to forſake ſin, and
+to turn to God unfeignedly.</p>
+            <q>
+               <p>I have no pleaſure, ſaith God, in the Death of the wicked, but
+that the wicked might turn from his evil ways and live,</p>
+               <bibl>Ezek. 11.33.</bibl>
+            </q>
+            <q>
+               <p>Except you be converted, you cannot enter into the Kingdom of
+Heaven,</p>
+               <bibl>Matt. 18.20.</bibl>
+            </q>
+            <q>
+               <p>In the waies of Righteouſneſs the Saints find Trea<g ref="char:EOLhyphen"/>ſure,
+ſo ſhall the Sinner by returning unto God,</p>
+               <bibl>Jer. 24.7.</bibl>
+            </q>
+            <p>By <hi>William Knowls.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>H. B.</hi> for <hi>W.
+Thackeray</hi> at the Angel in <hi>Duck-Lane.</hi> 1684.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34150:2" rendition="simple:additions"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>I Intreat thee from the Lord, that thou wouldeſt read this
+ſmall Book, and treaſure it up in the Cloſet of thy heart, to ſeal your
+Salvation to the day of redemption. Beeſt thou never ſuch a ſi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> now turn
+unto the Lord by Repentance, and th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> mayſt find mercy: now obey his call
+while his mer<g ref="char:EOLhyphen"/>cy is open, and run the race that is ſet before you, &amp;
+throw by ſin as a monſtrous enemy, and caſt the De<g ref="char:EOLhyphen"/>vil behind thee, and
+the profits and pleaſures of the World tread under your feet; ſet Chriſt
+and his Glory before thine eyes, and remember Death and Judgment; have a
+ſtrong Faith wrought in Chriſt Jeſus, in which way you'l find treaſures
+exceeding<g ref="char:EOLhyphen"/>ly, and ſo ſhall the wicked b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> turning to the Lord, for there is
+great joy in heaven at a ſinners return<g ref="char:EOLhyphen"/>ing, more than at ninety nine
+righteous perſons, that need not repentance. O you wicked ſinners, I
+beſeech you make timely preparation for your ſins. O conſider your own
+good and be wiſe; my prayers are ever for you, and my daily ſtudy is to
+find out medicines to cure you, and among you I throw the Seed of the Word. I
+travel in pain to the hazard of my life, and all to ſave your Souls from
+Hell, and that iniquity might not be your ruine. So hoping in the Lord for
+ſome of your converſions. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reſt your friend, in the Lord Jeſus.</p>
+            <closer>
+               <signed>W.K.B. in P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34150:2" rendition="simple:additions"/>
+            <head>A ſerious Call to Obſtinate Sinners.</head>
+            <epigraph>
+               <q>
+                  <p>Turn you, turn you from your evil ways; for why will you dye, O
+houſe of <hi>Iſrael?</hi>
+                  </p>
+                  <bibl>Ezek. 33.11.</bibl>
+               </q>
+            </epigraph>
+            <p>CHriſtian Friends, and beloved, whom the Lord would ever cover
+with the ſhadow of his wings, and embrace in his Arms, but you will not: you
+love Death better than Life, be<g ref="char:EOLhyphen"/>cauſe your deeds are evil. But hearken to the
+call of God; and to the Doctrine of Chriſt our Lord; you which are
+unconverted, draw nigh, now while I ſound the Tru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pet in <hi>Sion,</hi> and
+ſound you an Alarm in your Holy Mountains. <hi>O you ſinners, you
+inhabitants of the Earth, tremble at this ſudden call from God for the day of
+the Lord is at hand, Joel</hi> 2,1. And a moſt ſwift and ſud<g ref="char:EOLhyphen"/>den
+deſtruction attendeth the wicked; for God will moſt certainly ſhowre down
+his wrath and vengeance upon all ſuch as forget God, and will not be brought
+to the knowledge of his truth: nay, you will not diſcern the myſtery of
+Chriſts Body, which was crucified on the Croſs, and whoſe moſt dear and
+pre<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s blood was ſpilt for redemption of Sinners. O bewail your ig<g ref="char:EOLhyphen"/>norance,
+and beſéech the Lord to give you the knowledge of his truth and
+inſtruct you ſinners not to make any longer a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt at his words and
+<pb facs="tcp:34150:3"/>threatnings, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not you can be ſa<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> when you will; <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he
+not ſo deceived nor v<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed by the Prince of darkneſs. O it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the
+De<g ref="char:EOLunhyphen"/>vils pro<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſe to deceive the very <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God choſen ones, O you are
+called <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pecial grace of God to inherit a Kingdom; now there<g ref="char:EOLunhyphen"/>fore obey
+this ſpecial Call; <hi>To day <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you wi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> hear his Voice, hardon not your
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earts, to<g ref="char:EOLunhyphen"/>morrow is another day, and who knows what <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> day brings forth;</hi>
+continue no longer in filthi<g ref="char:EOLunhyphen"/>neſs, for the day of ſlaughter is nigh, and a
+juſt reward is prepared for the wicked. O we an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſinners, who <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hearts are
+double-minded, and whoſe will works deceit. How many ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s have you had? How
+many c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecks of Conſcience? how many godly Sermons? Precepts upon Precepts,
+Line upon Line, one Grace upon the nee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of ano<g ref="char:EOLhyphen"/>ther, and yet remains all this
+while as wicked as you did; what ſhall be uſed mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for your remedy; doth
+not your Miniſters baptize you in<g ref="char:EOLhyphen"/>to Chriſt, and unto Chriſt, and to make
+you a member of that myſtical body: and for all this you remain
+unſanctified; they adminiſter the outward Ordinance of the Supper of
+Chriſt, to make you mindful of his death and paſſion. to bind you to his
+will, and to knit your hearts to his ſpiritual Ordinance, yet all this
+availeth not, let the Miniſters of God ſay what they will, yee you do not
+regard them, you are now grown<pb facs="tcp:34150:3" rendition="simple:additions"/>ſo wiſe you need no
+teaching, you make light of Chriſt and Salvation: the ſwearers, and
+drun<g ref="char:EOLhyphen"/>kards, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and fornicato<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and deceitful men do <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they
+ſhall be ſaved as well as o<g ref="char:EOLhyphen"/>thers, when there is no <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hope; but Death
+and D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mnation is reſerved or the wicked: He that lives and dyes in ſin, is
+a Hell-hound, and a ſon of perdition. Tis the turning from the ſtate of the
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wicked to the waues of God that ſhall guide <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the glory of the
+Father of lights, <hi>with who <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is no <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, nor ſhadow of
+tur<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>os:</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> man throw off the world, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the plea<g ref="char:EOLhyphen"/>ſures &amp; de<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ght
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it, with the deceivable Luſts of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>neſs be in your
+life: <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> preſent cond<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be unre<g ref="char:EOLhyphen"/>buke <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> God and man, you cannot
+ſerve God and the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> yea you muſt loſe all for the fa<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of Chriſt,
+and count the world but d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs in compar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>io<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the w<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of Chriſt: this all
+Sinners would do it thee did but know the Oracle of God, and the myſtery of
+his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> word, and the reward they ſhall g<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in by Kingdom of Heaven, you
+would not under<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue the worth of Chriſt, you would not make light of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> O
+I beſeech you to make a ſpeed turn to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord; ſeek, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k for the
+Fountain that every <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and va<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> your Souls in t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> precious <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of
+Chriſt, his only body feed o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> drink of fre<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y; in not one
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:34150:4" rendition="simple:additions"/>fall to the Ground, it is altogether excellent
+pre<g ref="char:EOLunhyphen"/>cious, it cannot be got for Gold of <hi>Ophir,</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Diamond can
+purchaſe it, no Pearl can equa<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it; Chriſt cannot be bought for Gold nor
+S<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ver, and the worth of Chriſt is beyond Rubies<g ref="char:punc">▪</g> loe, this is the
+Fountain, and therefore pray <hi>Cleanſe me, O Lord, and I ſhall be
+cleanſed</hi> 'tis he, and he only, that is the door, and the way, and opens
+for hungry and thirſty ſouls; wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never taſted the ſweetneſs of
+Chriſts body <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Blood, but only the outward Ordinance, which gives not
+life: 'tis the ſpiritual feeding, and ſpi<g ref="char:EOLhyphen"/>ritual waſhing that makes the
+corrupted Souls of men perfect. Oh let theſe things prick your hearts, and
+cry, <hi>What ſhall we do to be ſaved,</hi> (ſaith St. <hi>Peter</hi>)
+<hi>and be baptized every one of you for remiſſion of Sins?</hi> No
+Repentance, no Salvation; therefore you ſinners be reconciled to God, and
+obey his Goſpel, and ſpeedily turn from the vain glory of the World, unto
+the righ<g ref="char:EOLhyphen"/>teouſneſs of God; and ſee here is happineſs in the ſtate of
+the Righteous. What hinders you, that you will not be reconciled to God? doth
+the world hinder you, and the profits and plea<g ref="char:EOLhyphen"/>ſures of it? what are you
+ſeeking, that you ſeek not God and his Kingdom? what ſeek you,
+pre<g ref="char:EOLhyphen"/>ferment, honour, and riches, or glory in the world, which things doth
+darken your minds &amp; underſtandings, and draws our hearts more and
+<pb facs="tcp:34150:4" rendition="simple:additions"/>more from God, ſhould not the Lord in mercy forbear the
+iniquity of the world; and wait up<g ref="char:EOLhyphen"/>on the ſinner for Repentance but in wrath
+and vengeance pour upon this Nation ſuch ſevere Iudgments, the ſins of
+this Nation cryeth for, there would be nothing but utter deſtruction;
+therefore, O Nations, gather your ſelves to<g ref="char:EOLhyphen"/>gether before the decrees comes
+forth, before the fierce anger of the Lord comes upon you; Seek the Lord while
+he may be found, and while pardon and remiſſion of ſins may be had, for
+if once the door of mercy is ſhut againſt you, you are utterly loſt, you
+are paſt Remedy, if you overſlip the day of Grace, you may then, when it is
+too late, call and cry, but God will not hearken, but will laugh at your
+calamity; you may ſeek him early, but God will not anſwer; and if you
+ſeek the Lord with Tears, you cannot find him. <hi>Prov.</hi> 1.28. Why will
+not God be found? ſaith God, <hi>They hate knowledg and re<g ref="char:EOLhyphen"/>fuſe
+inſtruction, and do not walk in the fear of God, Prov.</hi> 2.4. O you muſt
+incline your ears to wisdom, &amp; give up thy heart to underſtanding, you
+muſt ſéek the Lord as for fine ſilver, &amp; ſearch to find him
+as for precious treaſure: then ſhall thou know the fear of God, and obtain
+the excel<g ref="char:EOLhyphen"/>lent knowledge of Chriſt: you muſt ſeek dili<g ref="char:EOLhyphen"/>gently with a pure
+heart; yea, you muſt hunger &amp; thirſt after righteouſneſs, if you
+mean to be fil<g ref="char:EOLhyphen"/>led<pb facs="tcp:34150:5" rendition="simple:additions"/>in the end<g ref="char:punc">▪</g> you ſhall reap if you
+faint not. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but how backward is the people of the world t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hearken, and
+how loth are they to ſpend ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an hours time from their worldly employments
+to hear the ſalvation of <hi>Sion;</hi> how ſlow in hear<g ref="char:EOLunhyphen"/>ing, how dull in
+underſtanding are the wiſe me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of this world, <hi>the natural man
+perceiveth no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the things of the Spirit, neither doth he know them, they ſeem
+fooliſhneſs to him, becauſe they are ſpiritually diſcerned;</hi> Let
+the Mini<g ref="char:EOLhyphen"/>ſters of Chriſt call and cry, and tell you, you are out of the
+way, and perſwade you to turn, or elſe you will travel into utter
+deſtruction, and tell you that you are at the brink of Death, you will not
+believe, but make light of it, until your Soul drops into Hell. I beſeech you
+therefore in time to avoid the path of death; let not the eaſe, pleaſure,
+and delights of it entice you any longer to walk in the danger of it; ſet but
+the dreadful character before your eyes, and conſider that the end of your
+way is death; the Devil to deceive you, tells the worldlings that the way to
+Heaven, and the walking in this path of the righteous is full of miſery and
+ſorrow all your Life long, &amp; hard to be endured; and ſo by theſe
+evils he deceives the hearts of men; but do but underſtand what comfort the
+Saints enjoy, and have more peace of conſcience in a life of miſe<g ref="char:EOLhyphen"/>ry than
+the wicked hath in the greateſt Felicity<pb facs="tcp:34150:5" rendition="simple:additions"/>in the World; for
+there attendeth on earthly <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eaſuces everlaſting ſorrow, on honour
+abaſe<g ref="char:EOLhyphen"/>ment, on wealth and riches attendeth poverty, in all things elſe that
+attendeth the wicked; for <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>light is altogether vanity and vexation of
+ſpi<g ref="char:EOLhyphen"/>rit. <hi>Solomon</hi> had the enjoyments of all earthly pleaſures that
+could be thought on, yet all pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed but vanity; then why ſhould we ſeek
+after that profits not; let us ſeek Heaven, and the Righteouſneſs of it,
+and all other things ſhall be added thereto. <hi>Fight the good <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight of
+Faith, and ſo lay hold on Eternal life.</hi> God is the only re<g ref="char:EOLhyphen"/>fuge of the
+Righteous, and the greateſt reward. The Righteous liſtens to tne call of
+God; <hi>The ſheep hears the voice of the Shepherd, they fol<g ref="char:EOLhyphen"/>low him, for
+they know his voice, John</hi> 10.3. You worldlings, it is a ſign you are
+none of the Sheep, when you will not hearken to the voice of the Shepherd, when
+he calls you by the mouth of his Miniſters. How many hundred calls have you
+had from God, and you return no anſwers from the appearance of your
+converſations; whoſe motives are evil and actions unjuſt. Doth not all
+the Sermons you hear every Sabbath little prevail with you, and do they not all
+call upon you to turn; and do not men labour to write hundreds of Books,
+ſuitable to convince the ſins of the wicked, and calls out for you to turn;
+and yet it appears you live in a life<pb facs="tcp:34150:6" rendition="simple:additions"/>moſt deſperate, by
+your looſe living, and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>leſs giving ear to the word of God, and yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+making light of Chriſt and Salvation with you readineſs to hear and ſee
+paſtime and gameing or elſe ſome idle luſts or deſires, which corru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+the ſpiritual minds of men, and increaſes vi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> when the Apoſtle ſaith,
+<hi>Lay aſide vain babl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and uſe no fooliſh jeſting, which are things
+o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> comely; but rather be giving of tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> becometh the Saints of God.</hi>
+Are not the with ready to deride them that tells them of the things, as if it
+were not true Doctrine; O <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> alas, I could wiſh they would underſtand <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+word of the Lord, and give better heed to <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> bleſſed word; draw nigh you
+ſinners, to the preſent call from God, it may be the laſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you may
+have, it may be the laſt hour of your lives, make a ſpeedy turn therefore
+to the Lord for though you were ſheep that were gone aſtray, but now are
+turned to your ſhepherd and Biſhop of your Souls, 1 <hi>Peter</hi> 1.25
+Think it no loſt labour to turn from the World unto God; for he will receive
+you, if you quick<g ref="char:EOLhyphen"/>ly turn; yea, he'l cloath you with royal robes of
+Righteouſneſs; he'l ſeat you in the Glorious Throne of Heaven; you
+ſhall have bread of Life to feed on, and the precious blood of Chriſt to
+drink on; if you will but turn, you ſhall never hunger; and if you will
+believe on Chriſt, you<pb facs="tcp:34150:6" rendition="simple:additions"/>ſhall never thirſt; nor you
+ſhall need no Candle, either light of the Sun, for the Lord God, and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Lamb
+will be your light; yea, his Glory all light you, his power defend you, and his
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>vourable Arms embrace you; but if you will all remain obſtinate, and not
+turn, he will <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing Iudgment upon the wicked, as will he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſwift
+witneſs againſt South-ſayers, drunkards <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dulterers, falſe-ſwearers,
+and he that keepeth <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ck the hireing from his wages, and vexes the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dow and
+fatherleſs, and oppreſſes the ſtran<g ref="char:EOLhyphen"/>ger, and fears not the Lord of
+Hoſts: <hi>O but in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ime return unto me, and I will return unto you,</hi>
+ſaith the Lord. <hi>Mal.</hi> 3.7 <hi>For at that time a ſin<g ref="char:EOLhyphen"/>ner returns
+from his ſins from the bottom of his Heart he ſhall have mercy, Ezek.</hi>
+18.22. Not at what time ſoever, but at that time when the door of mercy is
+not ſhut againſt Sinners, for if once the Maſter is riſen, and hath
+ſhut the door, there is no entring; 'tis in vain to knock or call, for if you
+will go on in ſin, and never come to be ac<g ref="char:EOLhyphen"/>quainted with God, in the time of
+youth, health, or proſperity, which is the onlie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t time that God regardeth,
+and let your <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amps of Oyl burn out, &amp; ſuffer it to be ſpent upon
+delight &amp; pleaſure, in the time of youth, health, and proſperity; it
+will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e dark finding of Chriſt, when the inward light is darkned, and the Oyl
+of the ſpirit quite waſted. God will not be found in adverſity, by
+thoſe that<pb facs="tcp:34150:7" rendition="simple:additions"/>ſeeks him not in proſperity; nor in
+ſickneſs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will not hear him, who denies his helps in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> health.
+For the ſpirit of God and Chriſt is li<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to a skilful Phyſician that
+knows your woun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> too deep, and your diſeaſe moſt deſperate, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that
+you are paſt recovery, or very dangerous<g ref="char:punc">▪</g> for ſtrong Phyſick is not
+fit for a weak ſoul; fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſpirit of God is powerful in its working
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that creature whom he is pleaſed to appl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to; and therefore
+I beſeech you to ſeek th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord. Are you not yet ſtirred up to the
+amend<g ref="char:EOLunhyphen"/>ment of life, and cannot you ſpare a little time from your worldly
+affairs to hear the Trumpet ſounded in <hi>Sion,</hi> and calling to
+Repentance; and to know the excellent joy of the righteous, and the damnable
+torments of ſinners; for ſaith <hi>Job: The wicked is re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erved for t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e day
+of d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtruction,</hi> They ſhall be brought forth to the day of wrath;
+though here you have Pleaſure, Honour or Riches, yet for you is reſerved
+Eternal De<g ref="char:EOLhyphen"/>ſtruction, and though the righteous are deſti<g ref="char:EOLhyphen"/>tute of all
+Comfort, and ſuffer hunger and cold, or adverſity, yet they have prepared
+for them a Crown of Righteouſneſs, which ſhall be given them by the
+Righteous Iudge at the laſt day, when the hearts of all men ſhall be laid
+open, and their works good and bad ſhall be tryed. O how the wicked
+flouriſh in the world, and are pampered up with pleaſure and delight, like
+<pb facs="tcp:34150:7" rendition="simple:additions"/>
+               <hi>Dives</hi> in the Goſpel, <hi>Luk.</hi> 16.16. In what
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leaſure did he live, yet how was his heart hard<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed againſt
+diſtreſſed <hi>Lazarus:</hi> But <hi>Lazarus</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yeth and is carried to
+Heaven by Angels; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he rich man dyed, and was carried by Devils to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+puniſhed in the fiery flames of Hell Who can <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this ſmall evidence lay
+open in full the miſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of one, and the felicity of the other. Now <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould the
+worldly man chuſe to be <hi>Lazarus,</hi> ſo he might enjoy with him the
+felicity that he enjoyed. It cannot be layed open what joy the Lord hath
+prepared for them that love him. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow hath the people of God ſuffered for the
+ſake of Chriſt, as for example: Moſes <hi>choſe ra<g ref="char:EOLhyphen"/>ther affliction with
+the people of God, than to be in favour with Kings, or to be ſeated in the
+Royal Court of</hi> Pharaoh, <hi>Exod.</hi> 2.15. <hi>And</hi> Io<g ref="char:EOLhyphen"/>ſeph
+<hi>fled from the hand of his Miſtriſs, and threw himſelf into Priſon,
+rather than to commit Adul<g ref="char:EOLhyphen"/>tery with his Miſtriſs, Gen.</hi> 39.20. And
+ſo all along hath the people of God counted a miſerable Life better than a
+merry Life, for they are even enamoured with the worth of the felicity in
+Heaven, for it far excéeds the miſery on Earth. <hi>Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> counted
+his miſery nothing, nor the loſs of all his earthly gains, the killing of
+his ſons, &amp; the diſcomfort of his Wife, yet this could not make him
+forſake his God; &amp; the Apoſtle <hi>Paul counts the miſery of this
+life but light in compariſon<pb facs="tcp:34150:8" rendition="simple:additions"/>to the worth which ſhould be
+revealed hereafter</hi> Sure ſuch men as have undergone ſuch ha<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> conflicts
+of miſery for the ſake of Chriſt will b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſwift Witneſs againſt this
+Rebellious a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> untoward Generation; and thus all along h<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the people of God
+undergone extream miſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the World to this very day, while the wic<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> reſts
+ſecure in eaſe, pomp and pleaſure; free the higheſt to the loweſt,
+they all walk in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> paths of vanity, and will be by no means call<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> from
+this wretched ſtate of life; they think v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rily that God will carry them to
+Heaven in the<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> pleaſure; but I pray God he throws not ſuc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+miſunderſtanding wretches to helliſh flames i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his diſpleaſure, for
+he is a conſuming fire, which will devour the wicked, and reſerve the
+infer<g ref="char:EOLunhyphen"/>nal pit to burn both body and ſoul for ever. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my Friends, that
+thoſe things might convinc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you; they are in your ears but as warning-pieces
+to rattle you, which if you are not perſwaded by, will ſurely bring Gods
+Iudgments on you, and will prove a ſevere murthering-piece to your poor
+ſouls. Why do you think the Apoſtles and Prophets before us hath ſuffered
+ſuch great conflicts of miſery, and counted the greateſt joy but light in
+compariſon to the World hereaf<g ref="char:EOLhyphen"/>ter, becauſe they are fully perſwaded,
+that the p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<g ref="char:EOLhyphen"/>ſure and injoyment of Heaven, greatly exceeds the miſerable
+ſorrows on Earth; for as the joy<pb facs="tcp:34150:8" rendition="simple:additions"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one is finite, the
+felicity and happineſs of <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e other infinite, paſt all mens imagination;
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s no loſt labour to follow Chriſt, who ſuffer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his own body to be
+pierced &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is blood to be <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lt for the Redemption of ſinners; will he
+that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Sinner, for whom Chriſt dyed, think it hard <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> forſake
+the pleaſures of this Life, the deſires <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the fleſh, and the vain
+delights and glory of the World. O eſteem this nothing to the worth I <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>w
+ſet before you, and lay open the pierced <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>des of Chriſt, whoſe blood runs
+freely to ſin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers, and to the broken hearts that mourn in <hi>Si<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>;</hi>
+conſider I ſay how your ſanctifier was pier<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, who was buffeted, and
+ſhamefully reproach<g ref="char:EOLhyphen"/>ed, and barbarouſly Crucified, lay three days in the
+jaws of Death, from whence he went to Glory, where he daily makes our peace to
+God the Father, ſo that we will give Glory to his bleſſed Name; turn
+therefore out of this curſed fate of life, work wickedneſs no more, but
+ſpeak every one truth to his neighbour, for he who maketh a Lye, and worketh
+deceit, is abomination before the Lord, and ſhall ſurely be deſtroyed.
+<hi>The Soul that ſinneth</hi> (<hi>ſaith God in Ezek.</hi> 18.20.)
+<hi>ſhall ſurely dye.</hi> The death of the ſoul is everlaſt<g ref="char:EOLhyphen"/>ing: but
+God is not willing to leave your ſouls in Hell; as in the 21. verſe, <hi>If
+the wicked will but turn, and do that which is right before God, he ſhall not
+dye, he ſhall ſurely live, nor his<pb facs="tcp:34150:9" rendition="simple:additions"/>former ſins once
+mentioned in his righteouſneſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </hi> What a bleſſed expreſſion
+is here, what a gen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ral act of oblivion is here, that the Penite<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> may have
+mercy. O you ſinners of the wor<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> if you would but Arm your ſelves with
+faith, a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> come holdl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Throne of Grace; and pl<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with the Lord, thou
+houſe of <hi>Iſrael,</hi> ſo iniqu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall not be your ruine; yea,
+caſt off the wor<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of darkneſs, and put on the Armour of lig<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and create
+in your ſelves a new heart, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> new ſpirit; <hi>For why will you
+dye, O houſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Iſrael? <hi>Romans</hi> 13 12. <hi>Ezek</hi>
+18.31. <hi>Ca<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> there<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore one another to turn:</hi> for ſaith St. <hi>Paul,
+Romans</hi> 3.12. <hi>You are all gone out of the way, and altogether
+unprofitable, whoſe Throat is an open Sepulchre, who uſes their tongues to
+deceit, and your mou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hs full of curſing and bitterneſs, with feet ſwift
+to ſhed blood.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:34150:9" rendition="simple:additions"/>Deſtruction &amp; calamities are in your
+ways, who <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ws not the way of peace, nor no fear of God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore your eyes. O
+cleanſe your minds within <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and make preparation to entertain the Lord
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f life. What Royal entertainment is made for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orporal Princes; you'l make
+every Room clean <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Royal entertainment; but how much <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reater is the
+King of Kings, who would feign <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you make preparation to entertain him,
+and cleanſe and purifie your hearts and minds, for <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>cept you be cleanſed,
+you cannot receive the Holy Ghoſt? and Chriſt muſt live in you, ex<g ref="char:EOLhyphen"/>cept
+you be Reprobates; but he lives with none that acteth wickedneſs; <hi>Be you
+therefore holy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chriſt our Lord is holy,</hi> 1 <hi>Pet.</hi> 1.15. And
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no more to the ſtate of the wicked, as a Dog returns to his Vomit; or
+like a Hog to the wallowing in the mire, for your converſation is an
+unexpreſſible joy to the Hoſt of Heaven; for there is more joy in one
+ſinners returning, than ninety nine iuſt perſons that need no repentance,
+<hi>Luk.</hi> 15.7.</p>
+            <p>O but mark the Sentence to thoſe that return not, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith the
+Lord, <hi>Luk.</hi> 13.27. <hi>Depart ye curſed;</hi> you love the world, and
+the pleaſures of it, more than God and his King<g ref="char:EOLhyphen"/>dome; but the World
+paſſes away, and that therein is, 1 <hi>John</hi> 2.17. <hi>Chuſe rather
+miſery with the righteous, than joy with the wicked,<pb facs="tcp:34150:10" rendition="simple:additions"/>and
+pleaſures of ſin for a moment. Heb.</hi> 11.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> The rebuke of Chriſt is
+greater Riches tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Treaſures of the World: Weep therefore <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> worldlings,
+and howl for your life of pleaſure, in wantonneſs have nouriſhed your
+hearts to day of ſlaughter, <hi>Gen.</hi> 5.5. For behold the is coming, you
+ſhall burn as the ſtubble, and proud, and all that doth wickedly ſhall be
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> up, <hi>Mal.</hi> 4,1. For at the laſt day the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will be
+revealed, whom the Lord will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with the brightneſs of his coming, and
+all the de<g ref="char:EOLunhyphen"/>ceiveableneſs of the wicked ſhall periſh, beca<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they will not
+receive the ove of the truth, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they might be ſaved, 1
+<hi>Theſſ.</hi> 1.8. O what a dre<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ful thing it is to refuſe ſalvation
+where it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be had! how worſe than mad are the bewit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men of the World,
+who might have Life Liberty, if they would receive it, but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will not!
+they chooſe death rather than <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> becauſe their déeds are evil; I
+have ſpread <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my hands all the day long to a Rebellio<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> people, ſaith
+the Lord, which walks not in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ways that are good, but in their own
+imagina<g ref="char:EOLhyphen"/>tion, a people that provokes me to anger ex<g ref="char:EOLhyphen"/>ceedingly who blaſpheme
+me to my face, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with fury and wrath will I recompence the i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>niquity into
+their boſoms. O that theſe Iudg<g ref="char:EOLunhyphen"/>ments might but waken you out of ſin and
+ſe<g ref="char:EOLunhyphen"/>curity, and open your eyes to behold the danger<pb facs="tcp:34150:10" rendition="simple:additions"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+walk in, whom the God of this world blinds <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you cannot diſcern the
+light of the Goſpel <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhine upon you, 2 <hi>Cor.</hi> 4,4. From whence
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es contention, but through your pleaſures at fight in your members, you
+crave, yet not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; ye ask by Prayer, and receive not, be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſe you ask
+amiſs, that you might lay the ſame <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on your pleaſures: O the amity
+of the world <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> enmity with God: Whoſoever therefore is a <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>end to the
+World, is an enemy to God: let <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ur laughter be turned into mourning, &amp;
+your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> into heavineſs, and caſt down your ſelves to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord, and
+he will lift you up, <hi>James</hi> 4.6. By <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> time are ſome of you
+reſolved to turn, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> up your ſelves to know God, for except you
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ent, God will preſently ſtrike, he hath wher<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Sword, he hath bent his
+Bow, and is ready to ſhoot, he hath prepared deadly weapons, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath
+ordained Arrows to perſente you, <hi>Pſal.</hi> 7,12. O make a ſpeedy
+turn, and be recon<g ref="char:EOLhyphen"/>ciled to God, and let this day be thy day of con<g ref="char:EOLhyphen"/>verſion:
+let this ſound of Salvation enter into the Cloſer of thine heart, and throw
+by all buſie affairs, to hear of Salvation in <hi>Sion,</hi> and the
+ſin<g ref="char:EOLhyphen"/>ners Repentance: let go the world and the plea<g ref="char:EOLhyphen"/>ſures and profits of it,
+and take hold of Chriſt, and let nothing hinder you from hearing this
+bleſſed Call of the Lord. O that you would but give me a ſerious hearing,
+and it cannot chuſe<pb facs="tcp:34150:11" rendition="simple:additions"/>but work in your hearts for I come not
+to dra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you from obedience to God &amp; his worſhip, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> run not into ſo
+many opinions, for fear G<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſhould cut you off like Luke-warm creature which
+if he ſhould, he would even ſpue you o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his mouth: pray <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay and night I
+beſeech <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that you may attain aſſurance of your ſalvation Gods
+promiſes are to the penitent in heart, a humble and a broken heart God will
+not deſpiſe ſo you will but come to amendment of Life ſtir therefore,
+and abide not a moment in the ſtate of the wicked, for the wicked are curſe
+with curſes, and the Plagues of Hell attending them: Tell them, ſaith God,
+three or four times of their ſins, but if they refuſe your Admonition
+preſent them, and there ſhall be to them no co<g ref="char:EOLunhyphen"/>vering for ſin, but a
+fearful looking for Iudg<g ref="char:EOLhyphen"/>ment, and in their earthly felicity theſe curſes
+attend the Swearers, the Lyers, the drunkards, the murtherers, the ſtealers,
+adulterers, inchan<g ref="char:EOLhyphen"/>ters, ſouthſayers, and all other wicked people, you
+ſhall be curſed, ſaith God, <hi>Deut.</hi> 28.16. At ſome and abroad,
+in your wealths and poſſeſſions, and all that thou ſetteſt thy hand
+unto will periſh; the Lord will ſmite you with the peſti<g ref="char:EOLhyphen"/>lence, and
+deſperate diſeaſes, and your very Carcaſs ſhall be meat for Fowls;
+you ſhall be ſtruck with blindneſs that you ſhall grope at noon day, as
+in the darkſome night, and thou<pb facs="tcp:34150:11" rendition="simple:additions"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not proſper in
+that thou takeſt in hand, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Calf ſhall be ſlain, thy Goods ſhall
+be <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſed, and thy Children ſhall be given to other Nation, and the Land
+wherein thou <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt, ſhall be plagued wonderfully, even with <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t Plagues, and
+the Land ſhall burn with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rimſtone, like <hi>Sodom;</hi> then ſhall all
+Nations <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Why hath God poured his wrath and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rce indignation on this
+Land? who ſhall an<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er; Becauſe they forſake the Law of the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d, and
+walk in the indignation of their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n hearts, therefore will the Lord root out
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wicked out of the Land in his heavy diſ<g ref="char:EOLhyphen"/>pleaſure. O how the wicked
+live to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orld, and not to God, how they worſhip themſelves, but not the
+Lord! O how full <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mirth and pleaſures is their hearts, as if <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ey were
+purpoſely made for the World, their hands and eyes they lift up, but not
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir hearts to the Lord; <hi>You confeſs me</hi> ſaith God) <hi>with your
+mouths, but your <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earts are far from me.</hi> O but in time lay <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>part all
+filthineſs, and put far from you all maliciouſneſs, and be doers of the
+word, and not hearers only, leſt you enter into Condem<g ref="char:EOLhyphen"/>nation, <hi>James</hi>
+1.22. <hi>Walk worthy of God, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat the knowledge of Chriſt may be increaſed
+in you, Col.</hi> 1.10. How would this Nation be bleſſed, if the wicked
+would repent, as did <hi>Ni<g ref="char:EOLhyphen"/>niveh,</hi>
+               <pb facs="tcp:34150:12" rendition="simple:additions"/>who lay in the
+duſt, be wailing their tra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>greſſions: and they would be greatly
+bleſſed home &amp; abroad, whoſe wealth will multiply, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whoſe
+enemies would fly like duſt before the <hi>The Heavens ſhall give Rain in
+Seaſon and the in<g ref="char:EOLunhyphen"/>creaſe ſhall multiply upon the earth, Deut.</hi> 28.
+God will exceedingly bleſs you, if you will glo<g ref="char:EOLunhyphen"/>rifie his name in your Lives
+and Godly Conver<g ref="char:EOLunhyphen"/>ſations. O but alas you are ſuch, who profeſs you know
+God, but in works you deny him, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are abominable and diſobedient, and unto
+ever good work are Reprobates, <hi>Tit.</hi> 1.16. For wh<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is reſerved
+eternal deſtruction with Devils, h<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Righteous ſhall have all Tears
+wiped aw<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> from their eyes, and called by the Lamb to ſing <hi>Come ye
+bleſſed inherit a Kingdom;</hi> to the wick<g ref="char:EOLunhyphen"/>ed ſaith God, <hi>Go you
+curſed inherit deſtruction</hi>
+            </p>
+            <p>And now I am coming to the end of my work my heart trembles to
+think how I ſhall leav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you; leſt the devil, and the delights of the world,
+ſhould deceive you, for he continually watches to make you his Bond-ſlave,
+and to keep you in Hell to all Eternity. O friends, let timely repen<g ref="char:EOLhyphen"/>tance
+prevent this eminent danger: <hi>And let Chriſt dwell in your hearts by
+Faith, Eph.</hi> 2.17. O as I could deſire that ſame of you. Are you
+reſolved to turn? O that I could but win one Soul to Heaven this day: and I
+wiſh that he that hears me not preach this Doctrine in my<pb facs="tcp:34150:12" rendition="simple:additions"/>aſſembly, may he ready to cover after my Books <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t in Print; do but
+read; or hear them read, you cannot chuſe but profit by them: let not that
+which is good ſeem too dear for you<g ref="char:punc">▪</g> I have taken <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> paines to pen
+it in the uſual Volume, that all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight come to the price of it; but the worth
+that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> revealed, it cannot be bought for Gold nor Sil<g ref="char:EOLhyphen"/>ver, for the price
+of Chriſt is above Rubies.</p>
+            <p>And now I have done my work; what will be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me of it I cannot
+tell; I have thrown out the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at Gods command but I cannot give thee
+increaſe. If you will obey the call of God, you <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y have mercy, but I cannot
+entertain it for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it; I cannot ſhew you Heaven or Hell by Eye<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ght, but I
+herve ſhewed you the joy and ſorrow <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t both; and I beſeech the Lord to
+work in you what hath been ſaid, <hi>Heb.</hi> 13.20. <hi>And make you
+perfect in all works, working in you that which is pleaſing in his ſight,
+through Jeſus Chriſt our Lord; Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
